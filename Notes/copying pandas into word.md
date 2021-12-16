@@ -1,0 +1,2 @@
+poetry add python-docx
+

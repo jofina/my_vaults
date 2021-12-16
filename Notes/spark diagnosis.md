@@ -1,0 +1,1 @@
+https://blog.clairvoyantsoft.com/apache-spark-out-of-memory-issue-b63c7987fff
